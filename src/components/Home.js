@@ -20,26 +20,19 @@ id="Home-Page">
             </a>
             </li>
             <li class="m">
-            <a class="searchBar" href="links" > "Search for career"
+            <a class="MentorBar" href="links" > "Search mentor"
             <icon class="arrow"> </icon>
             </a>
             </li>
             <li class="m">
-            <a class="searchBar" href="links" > "Search for career"
+            <a class="resumeBar" href="links" > "research "
             <icon class="arrow"> </icon>
-
-
-            </a>
-            </li>
+        </a>
+        </li>
         </ul>
-    </div>
-
-</div>
-</section>
-
-
-
-
+        </div>
+        </div>
+    </section>
 </main>
 export default Home;
 
