@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home (){
+function Careers (){
     return ( 
         <div>Careers</div>
 
