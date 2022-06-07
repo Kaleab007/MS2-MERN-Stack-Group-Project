@@ -15,7 +15,7 @@ id="Home-Page">
         <ul class="Choices">
             <li class="m">
             <a class="searchBar" href="links" > 
-            "Search for career"
+            "Search for Careers"
             <icon class="arrow"> </icon>
             </a>
             </li>
