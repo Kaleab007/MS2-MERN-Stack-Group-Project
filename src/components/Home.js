@@ -9,7 +9,33 @@ function Home (){
 }
 <main className="Home" role={main}
 id="Home-Page">
-<div class=""
+    <section class="box"><div class="    ">
+    <h1 class="Header" id="Intro-header"> Join TruJobz for diverse career to discover!  </h1>
+    <div className="Lists">
+        <ul class="Choices">
+            <li class="m">
+            <a class="searchBar" href="links" > 
+            "Search for career"
+            <icon class="arrow"> </icon>
+            </a>
+            </li>
+            <li class="m">
+            <a class="searchBar" href="links" > "Search for career"
+            <icon class="arrow"> </icon>
+            </a>
+            </li>
+            <li class="m">
+            <a class="searchBar" href="links" > "Search for career"
+            <icon class="arrow"> </icon>
+
+
+            </a>
+            </li>
+        </ul>
+    </div>
+
+</div>
+</section>
 
 
 
