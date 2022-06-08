@@ -1,13 +1,7 @@
 import React from "react";
 
-function Careers (){
-    return ( 
-        <div>Careers</div>
-
-    ) 
-    
-}
-<html lang="en">
+function Careers (){ (
+    <html lang="en">
     <head>
         <meta name="C-page" content="guest_search">
             <meta name="location" content="en-US">
@@ -31,3 +25,7 @@ function Careers (){
            </button></section>
     </body>
 </html>
+   
+    ) 
+    
+}
