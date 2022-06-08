@@ -6,7 +6,7 @@ function Footer (){
         <body>
     <div class="container"></div>
         <footer>
-        <!-- Footer main -->
+        {/* <!-- Footer main --> */}
         <section class="ft-main">
           <div class="ft-main-item">
             <h2 class="ft-title">About</h2>
@@ -17,34 +17,24 @@ function Footer (){
               
             </ul>
           </div>
-          <div class="ft-main-item">
-            <h2 class="ft-title">Resources</h2>
-            <ul>
-              <li><a href="#">Docs</a></li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="#">eBooks</a></li>
-              <li><a href="#">Webinars</a></li>
-            </ul>
-          </div>
+         
           <div class="ft-main-item">
             <h2 class="ft-title">Contact</h2>
             <ul>
               <li><a href="#">Help</a></li>
-              <li><a href="#">Sales</a></li>
-              <li><a href="#">Advertise</a></li>
-            </ul>
+             </ul>
           </div>
           <div class="ft-main-item">
             <h2 class="ft-title">Stay Updated</h2>
             <p>Subscribe to our newsletter to get our latest news.</p>
             <form>
-              <input type="email" name="email" placeholder="Enter email address">
-              <input type="submit" value="Subscribe">
+              <input type="email" name="email" placeholder="Enter email address"></input>
+              <input type="submit" value="Subscribe"></input>
             </form>
           </div>
         </section>
        
-        <!-- Footer social -->
+       {/* <!-- Footer social --> */}
         <section class="ft-social">
           <ul class="ft-social-list">
             <li><a href="#"><i class="fab fa-facebook"></i></a></li>
@@ -56,7 +46,7 @@ function Footer (){
           </ul>
         </section>
        
-        <!-- Footer legal -->
+        {/* <!-- Footer legal --> */}
         <section class="ft-legal">
           <ul class="ft-legal-list">
             <li><a href="#">Terms &amp; Conditions</a></li>
@@ -67,7 +57,7 @@ function Footer (){
         </section>
       </footer>
 
-
+    </body>
 
 
     )
